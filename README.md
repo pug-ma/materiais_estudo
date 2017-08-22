@@ -21,6 +21,7 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>Introdução à programação com Python. Livro por Nilo Ney Coutinho Menezes.
           </br>Python Cookbook: Receitas para dominar Python 3
           </br>Pense em Python
+          </br>[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
 ## Lives:
 - **Semanais**
