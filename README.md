@@ -4,7 +4,10 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
 ## Cursos:
 - **Python:**
           </br>[Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
-          </br>[Ignorancia Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)</br>
+          </br>[Ignorancia Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
+          </br>[Introdução à Ciência da Computação com Python Parte 1 (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+          </br>[Introdução à Ciência da Computação com Python Parte 2 (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+          </br>[Python Básico](https://solyd.com.br/treinamentos/python-basico)
 
 - **Django:**
           </br>[Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
