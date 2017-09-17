@@ -23,8 +23,10 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
 
 ## Tutoriais:
 - **Django**
+    - *PT-BR*
           </br>[Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
-
+    - *Eng*
+          </br>[Tutorial Django Youtube](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 ## Livros:
 - **Python**
           </br>Introdução à programação com Python. Livro por Nilo Ney Coutinho Menezes.
