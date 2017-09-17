@@ -25,7 +25,7 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
 - **Django**
     - *PT-BR*
           </br>[Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
-    - *Eng*
+    - *ENG*
           </br>[Tutorial Django Youtube](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 ## Livros:
 - **Python**
