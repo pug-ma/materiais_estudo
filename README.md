@@ -14,6 +14,7 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>[Python for Absolute Beginners](https://www.udemy.com/python-for-absolute-beginners-u/)
           </br>[Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
           </br>[Using Python for Research(Harvard)](https://www.edx.org/course/using-python-research-harvardx-ph526x)
+          </br>[Python Boot Camp Fall 2016 - Berkeley Institute for Data Science](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)      
 
 - **Django:**
           </br>[Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
