@@ -14,20 +14,21 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
 
 ## Cursos
 - **Python**
-    - *PT-BR*
+     - *PT-BR*
           </br>[Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)
           </br>[Ignorancia Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
           </br>[Introdução à Ciência da Computação com Python Parte 1 (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
           </br>[Introdução à Ciência da Computação com Python Parte 2 (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
           </br>[Python Básico](https://solyd.com.br/treinamentos/python-basico)
+          </br>[PythonClub tem como finalidade unir em um único lugar, tudo sobre a linguagem Python e tecnologias relacionadas.](http://pythonclub.com.br/)
     - *ENG*
           </br>[Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction)
           </br>[Python for Absolute Beginners](https://www.udemy.com/python-for-absolute-beginners-u/)
           </br>[Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
           </br>[Using Python for Research(Harvard)](https://www.edx.org/course/using-python-research-harvardx-ph526x)
           </br>[Deep Learning with Python](http://www.fast.ai/)
-          </br>[Python Boot Camp Fall 2016 - Berkeley Institute for Data Science](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)      
-
+          </br>[Python Boot Camp Fall 2016 - Berkeley Institute for Data Science](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
+          </br>[Test Driven Development Courses](https://testdriven.io/part-one-intro/)
 
 - **Django**
           </br>[Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
