@@ -1,5 +1,16 @@
-# materiais_estudo
+# Materias de estudo
 Repositório para divulgação de links de materiais de estudo sobre Python, Django, Flask e afins.
+
+<!-- TOC -->
+
+- [Materias de estudo](#materias-de-estudo)
+    - [Cursos:](#cursos)
+    - [Tutoriais:](#tutoriais)
+    - [Livros:](#livros)
+    - [Lives:](#lives)
+    - [Grupos:](#grupos)
+
+<!-- /TOC -->
 
 ## Cursos:
 - **Python:**
@@ -37,6 +48,7 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>Python Cookbook: Receitas para dominar Python 3
           </br>Pense em Python
           </br>[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+          </br>[Tradução do livro “How to Think Like a Computer Scientist: Interactive Version”, de Brad Miller e David Ranum](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
 
 ## Lives:
 - **Semanais**
