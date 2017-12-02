@@ -28,7 +28,7 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>[Using Python for Research(Harvard)](https://www.edx.org/course/using-python-research-harvardx-ph526x)
           </br>[Deep Learning with Python](http://www.fast.ai/)
           </br>[Python Boot Camp Fall 2016 - Berkeley Institute for Data Science](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
-          </br>[Test Driven Development Courses](https://testdriven.io/part-one-intro/)
+          </br>[Test Driven Development Courses](https://testdriven.io/version-two/)
 
 - **Django**
           </br>[Python 3 na Web com Django](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
