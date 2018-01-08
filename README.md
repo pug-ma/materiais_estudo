@@ -43,6 +43,11 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>[Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
     - *ENG*
           </br>[Tutorial Django Youtube](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+
+- **Flask**
+    - *PT-BR*
+          </br>[Bruno Rocha - What the Flask](http://pythonclub.com.br/what-the-flask-pt-1-introducao-ao-desenvolvimento-web-com-python.html)
+
 ## Livros
 - **Python**
           </br>Introdução à programação com Python. Livro por Nilo Ney Coutinho Menezes.
