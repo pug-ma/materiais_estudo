@@ -55,6 +55,7 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>Pense em Python
           </br>[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
           </br>[Tradução do livro “How to Think Like a Computer Scientist: Interactive Version”, de Brad Miller e David Ranum](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
+          </br>[Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
 
 ## Lives
 - **Semanais**
