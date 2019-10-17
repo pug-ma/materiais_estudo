@@ -21,6 +21,8 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>[Introdução à Ciência da Computação com Python Parte 2 (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
           </br>[Python Básico](https://solyd.com.br/treinamentos/python-basico)
           </br>[PythonClub tem como finalidade unir em um único lugar, tudo sobre a linguagem Python e tecnologias relacionadas.](http://pythonclub.com.br/)
+          </br>[Python - Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+          </br>[Curso de análise de dados em Python para iniciantes](https://www.youtube.com/playlist?list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) by LabHacker Câmara dos Deputados
     - *ENG*
           </br>[Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction)
           </br>[Python for Absolute Beginners](https://www.udemy.com/python-for-absolute-beginners-u/)
@@ -68,3 +70,5 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
   </br>[Python Brasil](https://t.me/pythonbr)
   </br>[Django Brasil:](https://t.me/djangobrasil)
   </br>[Live de Python](https://t.me/livepython)
+  </br>[Grupy-RN](https://t.me/GrupyRN)
+  </br>[PythonRio](https://t.me/PythonRio)
